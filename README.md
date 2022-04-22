@@ -3,8 +3,8 @@
 
 基于官方固件版本3.211安装，包含插件 passwall，ssr plus, frpc, nps, unblockneteasemusic等
 
-    空间不够可参考openwrt扩容overlay [将 Overlay 空间指向外置存储](https://blog.digicat-studio.com/Technology/openwrt_overlay.html)
+*空间不够可参考openwrt扩容overlay [将 Overlay 空间指向外置存储](https://blog.digicat-studio.com/Technology/openwrt_overlay.html)
 
-opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
+*opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
 
 可以同时安装ssrp和passwall
